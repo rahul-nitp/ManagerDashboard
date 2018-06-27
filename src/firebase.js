@@ -1,7 +1,7 @@
 import firebase from 'firebase'
 
 const config = {
-    apiKey: "xxx",
+    apiKey: "xxx-xxx-xxx",
     authDomain: "loginsignup-a89c6.firebaseapp.com",
     databaseURL: "https://loginsignup-a89c6.firebaseio.com",
     projectId: "loginsignup-a89c6",
